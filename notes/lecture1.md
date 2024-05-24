@@ -1,8 +1,8 @@
 # 第一节课 《书生·浦语大模型全链路开源体系》
-[书生·浦语官网](https://internlm.intern-ai.org.cn/)
-[课程链接](https://github.com/InternLM/Tutorial/tree/camp2)
-[视频课程链接](https://www.bilibili.com/video/BV1Vx421X72D/?vd_source=6a583c10668fbb7726a75f50cb76fe62)
-[InternLM2技术报告](https://arxiv.org/pdf/2403.17297)
+[书生·浦语官网](https://internlm.intern-ai.org.cn/) |
+[课程链接](https://github.com/InternLM/Tutorial/tree/camp2) |
+[视频课程链接](https://www.bilibili.com/video/BV1Vx421X72D/?vd_source=6a583c10668fbb7726a75f50cb76fe62) |
+[InternLM2技术报告](https://arxiv.org/pdf/2403.17297) |
 ## 书生·浦语大模型开源历程
 ![](../images/lecture1/1716520865362.png)
 其中，InternLM-7B模型和全链条工具体系进行全面开源，免费商用🌟🌟
@@ -16,12 +16,12 @@
 ## 书生•浦语全链条开源开放体系
 提供数据集->预训练->微调->部署->评测->应用全套工具🚁🚁
 ![](../images/lecture1/1716521529163.png)
-数据集：[书生万卷](https://github.com/opendatalab/WanJuan1.0)丰富多样的开放数据🚀🚀🚀
-预训练：[InternLM-Train](https://github.com/InternLM/InternLM)只需修改配置文件，即可实现不同模型、不同数据集下的训练🛥️🛥️🛥️
-微调框架：[XTuner](https://github.com/InternLM/xtuner)内置Lora、QLora等多种微调算法🚗🚗🚗
-部署工具：[LMDeploy](https://github.com/InternLM/lmdeploy)支持高效部署，内置INT4、INT8量化实现🏖️🏖️🏖️
-评测工具：[OpenCompass](https://github.com/open-compass/opencompass)全面的评测体系🏟️🏟️🏟️
-智能体框架：[Lagent](https://github.com/InternLM/lagent)支持多种类型的智能体能力、灵活支持多种大语言模型⛲⛲⛲
+- 数据集：[书生万卷](https://github.com/opendatalab/WanJuan1.0)丰富多样的开放数据🚀🚀🚀
+- 预训练：[InternLM-Train](https://github.com/InternLM/InternLM)只需修改配置文件，即可实现不同模型、不同数据集下的训练🛥️🛥️🛥️
+- 微调框架：[XTuner](https://github.com/InternLM/xtuner)内置Lora、QLora等多种微调算法🚗🚗🚗
+- 部署工具：[LMDeploy](https://github.com/InternLM/lmdeploy)支持高效部署，内置INT4、INT8量化实现🏖️🏖️🏖️
+- 评测工具：[OpenCompass](https://github.com/open-compass/opencompass)全面的评测体系🏟️🏟️🏟️
+- 智能体框架：[Lagent](https://github.com/InternLM/lagent)支持多种类型的智能体能力、灵活支持多种大语言模型⛲⛲⛲
 
 # InternLM2技术报告阅读笔记
 地址：https://arxiv.org/pdf/2403.17297
