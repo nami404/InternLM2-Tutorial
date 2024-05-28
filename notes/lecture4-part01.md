@@ -1,4 +1,5 @@
 # 基础作业
+[XTuner 微调 LLM](https://github.com/InternLM/Tutorial/tree/camp2/xtuner)
 ## XTuner 微调个人小助手认知
 [官方教程文档](https://github.com/InternLM/Tutorial/blob/camp2/xtuner/personal_assistant_document.md)
 ### 环境安装
@@ -1316,8 +1317,11 @@ streamlit run /root/ft/web_demo/InternLM/chat/web_demo.py --server.address 127.0
 
 
 
-# 进阶作业
+# 进阶作业（文档太大，更换其他链接，点击下方链接即可）
 [OpenXLab 部署教程](https://github.com/InternLM/Tutorial/tree/camp2/tools/openxlab-deploy)
+
+- [将自我认知的模型上传到 OpenXLab，并将应用部署到 OpenXLab](./lecture4-part02.md)
+- [复现多模态微调](./lecture4-part03.md)
 
 # XTuner 微调 LLM
 XTuner 一个大语言模型&多模态模型微调工具箱。由 MMRazor 和 MMDeploy 联合开发。
