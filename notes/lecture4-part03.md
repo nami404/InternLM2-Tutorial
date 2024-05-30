@@ -387,6 +387,21 @@ xtuner chat /root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-1_8b \
 Finetune前后效果对比：
 
 **Finetune前：只会打标题**
-
+![](../images/lecture4/1717072547976.png)
 
 **Finetune后：会回答问题了**
+![](../images/lecture4/1717080018073.png)
+
+
+Bug记录：🐛🐛🐛
+![](../images/lecture4/1613213465421.png)
+“XTuner多模态训练与测试”训练模型指令执行报错TypeError: 'NoneType object is not subscriptable in xxxx
+
+解决方案：
+transformers的包不对，原来的是4.41.1，改为4.40.0应该就OK了
+```python
+pip install transformers==4.40.0
+```
+
+
+
